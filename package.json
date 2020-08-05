@@ -1,0 +1,17 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "Markov Chain",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kuda",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "fs": "0.0.1-security",
+    "process": "^0.11.10",
+    "repl": "^0.1.3"
+  }
+}
